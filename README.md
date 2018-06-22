@@ -1,1 +1,1 @@
-## Functions for Fun!
+## Functions for Fun (using with laravel)!
